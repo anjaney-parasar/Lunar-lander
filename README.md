@@ -1,3 +1,3 @@
 # Lunar-lander
 
-[](lander_a2c.gif)
+![](lander_a2c.gif)
